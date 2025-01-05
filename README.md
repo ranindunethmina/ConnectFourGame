@@ -14,25 +14,6 @@ In case if you have any doubts regarding the assignment please make sure to clar
 * **But do not try to run or compile the application yet**
 * **Follow the instructions in the assignment**
 
-### FAQ
-
-**Q: Can I delete the `.gitkeep` file in `lk.ijse.dep.service` package?**<br>
-Yes, you can
-
-**Q: Why can't I run any games that are in the release page?**<br>
-Open a terminal window and type `java -version` to find out the java version. You should have JDK 11 installed on your system to run these games. If you have JDK 11 installed on your system and still unable to run the games, then seek your course instructor's help to get it work. 
-
-**Q: I have found some broken links and spelling mistakes in the assignment. How can I inform?**<br>
-Please open a [new issue](https://github.com/ranindunethmina/connect-four-game.git/issues/new) mentioning the broken link or spelling mistake. Thank you for informing!
-
-**Q: I have doubts to clarify regarding the assignment, what should I do?**<br>
-Please contact your course instructor 😉
-
-### Game
-If you want to find out how the game looks like at the end of each step, check out the [release page](https://github.com/ranindunethmina/connect-four-game.git/releases) and follow the instructions there.
-
-### Version
-0.0.6
 
 ### License
 Copyright © 2023 Ranindu Nethmina. All rights reserved <br>
