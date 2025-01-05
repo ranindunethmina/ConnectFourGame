@@ -1,4 +1,4 @@
-# The Connect-4 Game
+# The Connect Four Game
 In this assignment, you will implement the complete logic behind the "Connect 4 Game" including the artificial Intelligence part of the computer player.
 Please read the assignment carefully before proceeding. You can find the assignment [here](https://drive.google.com/file/d/1sfD00n_mQAmeyLz9kp_Kzd0V4OJhAqFM/view?usp=sharing).
 In case if you have any doubts regarding the assignment please make sure to clarify them upfront.
